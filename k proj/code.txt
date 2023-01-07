@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Photography-template</title>
+
+        <script src="https://kit.fontawesome.com/a5b8707f99.js" crossorigin="anonymous">
+        </script>
+    </head>
+    <body bgcolor="black">
+        <table width="100%" cellspacing="0"  cellpadding="10px" border="0" bgcolor="white">
+            <tr>
+                <td>
+                 <h1><span style="color: red;">K</span>ata<span style="color: red;">K</span>limt  <span style="font-style: italic; font-size: 15px;">Photography</span></h1>
+                </td>
+                <td style="text-align:end;">
+                    <a href="" style="text-decoration: none; font-size: 20px; font-weight: bold;color: darkgreen;padding: 2px;"><span style="background-color: salmon;border-radius: 3px; padding: 10px;"> About</span></a>
+                    <a href="" style="text-decoration: none; font-size: 20px; font-weight: bold;color: darkgreen;padding: 2px;">Services</a>
+                    <a href="" style="text-decoration: none; font-size: 20px; font-weight: bold;color: darkgreen;padding: 2px;">Follo</a>
+                    <a href="" style="text-decoration: none; font-size: 20px; font-weight: bold;color: darkgreen;padding: 2px;">Blog</a>
+                    <a href="" style="text-decoration: none; font-size: 20px; font-weight: bold;color: darkgreen;padding: 2px;">Contact</a>
+                </td>
+            </tr>
+        </table>
+        <table width="100%" height="50px" style="background-color:rgb(61, 49, 49);" cellpadding="10px">
+            <tr>
+                <td>
+                    <img src="images/Row2.png" alt="Levis images" width="100%" >
+                </td>
+            </tr>
+        </table>
+        <table style="background-color: rgb(31, 34, 34);">
+            <tr>
+                <td width="15%" align="center">
+                    <h2><span style="font-weight: bold; color: red;">W</span><span style="color: white;">elcome!</span></h2>
+                </td>
+                <td>
+                    <p><a href="" style="text-decoration: none; font-size: 20px; font-weight: bold;color: darkgreen;padding: 3px;"><span style="color: red;">Click here</span></a><span style="color:darkgrey;"> for more about this free website template created by TemplateMonster.com. This is a Bootstrap
+                    template that goes with several layout option(for desktop, tablet, smartphone  and portrait) to fit all popular screen resolution. The PSD source files of thid template
+                    are available for free for the registerd members of TemplateMonster.com. Feel free to get them!</span></p>
+                </td>
+            </tr>
+        </table>
+        <table width="100%" cellspacing="0" cellpadding="10px" bgcolor="black">
+            <tr>
+                <td width="25%">
+                    <h2><span style="color: white;">Fashion</span></h2>
+                    <img src="images/m6.jpg" alt="Fashion" width="100%" style="height: 260px;"><br>
+                    <p><span style="color: white;">Taylor Swift</span> <br>
+                    <span style="color: darkgrey;">by Mary ellen.Taylor swift reached a zen state of cheerful realism laughs as she leans...</span></p>
+                    <button type="button" style="background-color: red; padding: 5px; border: 0px;"><span style="color: white;">Read More</span></button>
+                </td>
+                <td width="25%">
+                    <h2><span style="color: white;">Nature</span></h2>
+                    <img src="images/m5.jpg" alt="Nature" width="100%" style="height: 260px;"><br>
+                    <p><span style="color: white;">Natural Beauty of Nepal</span><br>
+                    <span style="color: darkgrey;">See the Review from Global International Travel of Global international travel..</span></p>
+                    <button type="button" style="background-color: red; padding: 5px; border: 0px;"><span style="color: white;">Read More</span></button>
+                </td>
+                <td width="25%">
+                    <h2><span style="color: white;">Wedding</span></h2>
+                    <img src="images/m4.jpg" alt="Wedding" width="100%" style="height: 260px;"><br>
+                    <p><span style="color: white;">Priyanka Chopra and Nick Jonas Post Wedding Pics</span>
+                    <span style="color: darkgrey;">'Forever Starts Now' the first picture of Priyanka and Nick Jonas from their wedd...</span></p>
+                    <button type="button" style="background-color: red; padding: 5px; border: 0px;"><span style="color: white;">Read More</span></button>
+                </td>
+                <td width="25%">
+                    <h2><span style="color: white;">Fine art</span></h2>
+                    <img src="images/images.jpg" alt="Fine art" width="100%" style="height: 260px;"><br>
+                    <p><span style="color: white;">At Milan Fashion Week:</span><br>
+                    <span style="color: darkgrey;">Diversity, stridency and conceptualism Up with eclectic!</span></p><br>
+                    <button type="button" style="background-color: red; padding: 5px; border: 0px;"><span style="color: white;">Read More</span></button>
+                </td>
+            </tr>
+        </table>
+        <table width="100%" style="background-color: rgb(39, 35, 35);" cellpadding="10px">
+            <tr>
+                <td width="20%">
+                    <h2><span style="color:white;">Shortly about me</span></h2>
+                    <img src="images/m1.jpg" alt="About" width="100%" height="250px">
+                </td>
+                <td width="25%">
+                    <br>
+                    <br>
+                    <br>
+                    <p><span style="color: white;">Sed ut perspictis unde omnis natus error volupatem accusantium doloue laudantium, totam rem.</span><br>
+                    <span style="color: darkgray;">Aperiam, eaque ipsa quae ab illo veritatis et beatuea vitae dicta sunt explicabo nemo enim ipsam voluptatem quia voluptas sit 
+                        aspernature aut odit aut fugit, sed
+                    </span></p>
+                    <hr>
+                    <table style="padding: 5px;">
+                        <tr>
+                            <td>
+                                <ul style="color: red; font-weight: bold;" type="square" >
+                                    <li>Campaigns</li>
+                                    <li>Portraits</li>
+                                    <li>Fashion</li>
+                                    <li>Fine Art</li>
+                                </ul>
+                            </td>
+                             <td>
+                                <ul type="square" style="color: red;font-weight: bold;">
+                                    <li>Advertising</li>
+                                    <li>Lifestyle</li>
+                                    <li>Wedding</li>
+                                    <li>Love Story</li>
+                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                <td width="45%">
+                    <h2><span style="color: white;">Latest photoshoots</span></h2>
+                    <table width="100%" cellpadding="10px">
+                        <tr>
+                            <td width="33%">
+                                <img src="images/m2.jpg" alt="m2" width="100%" style="width: 105%;height: 240px;">
+                            </td>
+                            <td width="33%">
+                                <img src="images/m3.jpg" alt="m3" width="100%" style="width: 105%;height: 240px;">
+                            </td>
+                            <td>
+                                <table>
+                                    <tr>
+                                        <td>
+                                            <img src="images/images (1).jpg" alt="image 1" width="100%" style="height: 115px;width: 105%;">
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <img src="images/Nepal.jpg" alt="Nepal" width="100%" style="height: 115px;width: 105%;">
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        <table bgcolor="white" width="100%">
+            <tr>
+                <footer>
+                <td width="60%" align="center"><h4>&#169; Copyright</h4></td>
+                <td style="text-align:center;">
+                    <i class="fab fa-facebook" style="color: red; font-size: 20px;padding: 2px;"></i>
+                    <i class="fab fa-twitter" style="color: white; font-size: 15px;background-color: red;border-radius: 10px;padding: 3px;"></i>
+                    <i class="fab fa-google-plus" style="color: red; font-size: 20px;padding: 2px;"></i>
+                    <i class="fab fa-github" style="color: red; font-size: 20px;"></i>
+                </td>
+            </footer>
+            </tr>
+        </table>
+    </body>
+</html>
+
